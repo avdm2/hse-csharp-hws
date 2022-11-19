@@ -1,0 +1,32 @@
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\appsettings.json
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\Message service.exe
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\Message service.deps.json
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\Message service.runtimeconfig.json
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\Message service.runtimeconfig.dev.json
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\Message service.dll
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\ref\Message service.dll
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\Message service.pdb
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\Message service.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\Message service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\Message service.AssemblyInfoInputs.cache
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\Message service.AssemblyInfo.cs
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\Message service.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\Message service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\Message service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\staticwebassets\Message service.StaticWebAssets.Manifest.cache
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\staticwebassets\Message service.StaticWebAssets.xml
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\scopedcss\bundle\Message service.styles.css
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\Message service.RazorTargetAssemblyInfo.cache
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\Message service.csproj.CopyComplete
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\Message service.dll
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\ref\Message service.dll
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\Message service.pdb
+C:\Users\Артем\Desktop\Peergrade 7\Message service\obj\Debug\net5.0\Message service.genruntimeconfig.cache
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\messages.json
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\users.json
+C:\Users\Артем\Desktop\Peergrade 7\Message service\bin\Debug\net5.0\Message service.xml

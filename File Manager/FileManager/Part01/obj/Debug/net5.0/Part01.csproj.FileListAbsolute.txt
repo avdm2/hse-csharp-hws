@@ -1,0 +1,48 @@
+C:\Users\Артем\source\repos\File Manager\Part01\bin\Debug\net5.0\Part01.exe
+C:\Users\Артем\source\repos\File Manager\Part01\bin\Debug\net5.0\Part01.deps.json
+C:\Users\Артем\source\repos\File Manager\Part01\bin\Debug\net5.0\Part01.runtimeconfig.json
+C:\Users\Артем\source\repos\File Manager\Part01\bin\Debug\net5.0\Part01.runtimeconfig.dev.json
+C:\Users\Артем\source\repos\File Manager\Part01\bin\Debug\net5.0\Part01.dll
+C:\Users\Артем\source\repos\File Manager\Part01\bin\Debug\net5.0\ref\Part01.dll
+C:\Users\Артем\source\repos\File Manager\Part01\bin\Debug\net5.0\Part01.pdb
+C:\Users\Артем\source\repos\File Manager\Part01\obj\Debug\net5.0\Part01.csproj.AssemblyReference.cache
+C:\Users\Артем\source\repos\File Manager\Part01\obj\Debug\net5.0\Part01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\source\repos\File Manager\Part01\obj\Debug\net5.0\Part01.AssemblyInfoInputs.cache
+C:\Users\Артем\source\repos\File Manager\Part01\obj\Debug\net5.0\Part01.AssemblyInfo.cs
+C:\Users\Артем\source\repos\File Manager\Part01\obj\Debug\net5.0\Part01.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\File Manager\Part01\obj\Debug\net5.0\Part01.dll
+C:\Users\Артем\source\repos\File Manager\Part01\obj\Debug\net5.0\ref\Part01.dll
+C:\Users\Артем\source\repos\File Manager\Part01\obj\Debug\net5.0\Part01.pdb
+C:\Users\Артем\source\repos\File Manager\Part01\obj\Debug\net5.0\Part01.genruntimeconfig.cache
+C:\Users\Артем\Desktop\File Manager\Part01\bin\Debug\net5.0\Part01.exe
+C:\Users\Артем\Desktop\File Manager\Part01\bin\Debug\net5.0\Part01.deps.json
+C:\Users\Артем\Desktop\File Manager\Part01\bin\Debug\net5.0\Part01.runtimeconfig.json
+C:\Users\Артем\Desktop\File Manager\Part01\bin\Debug\net5.0\Part01.runtimeconfig.dev.json
+C:\Users\Артем\Desktop\File Manager\Part01\bin\Debug\net5.0\Part01.dll
+C:\Users\Артем\Desktop\File Manager\Part01\bin\Debug\net5.0\ref\Part01.dll
+C:\Users\Артем\Desktop\File Manager\Part01\bin\Debug\net5.0\Part01.pdb
+C:\Users\Артем\Desktop\File Manager\Part01\obj\Debug\net5.0\Part01.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\File Manager\Part01\obj\Debug\net5.0\Part01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\Desktop\File Manager\Part01\obj\Debug\net5.0\Part01.AssemblyInfoInputs.cache
+C:\Users\Артем\Desktop\File Manager\Part01\obj\Debug\net5.0\Part01.AssemblyInfo.cs
+C:\Users\Артем\Desktop\File Manager\Part01\obj\Debug\net5.0\Part01.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\File Manager\Part01\obj\Debug\net5.0\Part01.dll
+C:\Users\Артем\Desktop\File Manager\Part01\obj\Debug\net5.0\ref\Part01.dll
+C:\Users\Артем\Desktop\File Manager\Part01\obj\Debug\net5.0\Part01.pdb
+C:\Users\Артем\Desktop\File Manager\Part01\obj\Debug\net5.0\Part01.genruntimeconfig.cache
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\bin\Debug\net5.0\Part01.exe
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\bin\Debug\net5.0\Part01.deps.json
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\bin\Debug\net5.0\Part01.runtimeconfig.json
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\bin\Debug\net5.0\Part01.runtimeconfig.dev.json
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\bin\Debug\net5.0\Part01.dll
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\bin\Debug\net5.0\ref\Part01.dll
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\bin\Debug\net5.0\Part01.pdb
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\obj\Debug\net5.0\Part01.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\obj\Debug\net5.0\Part01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\obj\Debug\net5.0\Part01.AssemblyInfoInputs.cache
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\obj\Debug\net5.0\Part01.AssemblyInfo.cs
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\obj\Debug\net5.0\Part01.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\obj\Debug\net5.0\Part01.dll
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\obj\Debug\net5.0\ref\Part01.dll
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\obj\Debug\net5.0\Part01.pdb
+C:\Users\Артем\Desktop\Учеба\Программирование на C#\File Manager\Part01\obj\Debug\net5.0\Part01.genruntimeconfig.cache

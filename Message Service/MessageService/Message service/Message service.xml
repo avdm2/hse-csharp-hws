@@ -1,0 +1,181 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Message service</name>
+    </assembly>
+    <members>
+        <member name="T:Message_service.Controllers.UsersController">
+            <summary>
+            Контроллер.
+            </summary>
+        </member>
+        <member name="M:Message_service.Controllers.UsersController.GetFromJson">
+            <summary>
+            Получение списков из .json документов.
+            </summary>
+            <returns>Ok(), если файлы прочитаны успешно, BadRequest(), если возникло исключение.</returns>
+        </member>
+        <member name="M:Message_service.Controllers.UsersController.WriteToJson">
+            <summary>
+            Запись списков в .json документы.
+            </summary>
+            <returns>Ok(), если запись успешна, BadRequest(), если возникло исключение.</returns>
+        </member>
+        <member name="M:Message_service.Controllers.UsersController.CreateLists">
+            <summary>
+            Генерация списков пользователей и сообщений.
+            </summary>
+            <returns>Ok() - список успешно создан.</returns>
+        </member>
+        <member name="M:Message_service.Controllers.UsersController.GetUserById(System.String)">
+            <summary>
+            Получение пользователя по электронной почте.
+            </summary>
+            <param name="id">Идентификатор.</param>
+            <returns>Ok(), если пользователь найден, NotFound() в ином случае, BadRequest() в случае, если список пользователей пуст.</returns>
+        </member>
+        <member name="M:Message_service.Controllers.UsersController.GetAllUsers">
+            <summary>
+            Получение списка всех пользователей.
+            </summary>
+            <returns>Ok(), если список не пуст, BadRequest() в ином случае.</returns>
+        </member>
+        <member name="M:Message_service.Controllers.UsersController.GetMessage(System.String,System.String)">
+            <summary>
+            Получение сообщений с помощью идентификаторов отправителя и получателя.
+            </summary>
+            <param name="senderId">Идентификатор отправителя.</param>
+            <param name="recieverId">Идентификатор получателя.</param>
+            <returns>Ok(), если сообщения найдены, NotFound() в ином случае, BadRequest(), если список сообщений пуст.</returns>
+        </member>
+        <member name="M:Message_service.Controllers.UsersController.GetMessageBySenderId(System.String)">
+            <summary>
+            Получение сообщений, отправленных пользователем с указанным идентификатором.
+            </summary>
+            <param name="id">Идентификатор отправителя.</param>
+            <returns>Ok(), если сообщения найдены, NotFound() в ином случае, BadRequest(), если список сообщений пуст.</returns>
+        </member>
+        <member name="M:Message_service.Controllers.UsersController.GetMessageByRecieverId(System.String)">
+            <summary>
+            Получение сообщений, полученных пользователем с указанным идентификатором.
+            </summary>
+            <param name="id">Идентификатор получателя.</param>
+            <returns>Ok(), если сообщения найдены, NotFound() в ином случае, BadRequest(), если список сообщений пуст.</returns>
+        </member>
+        <member name="M:Message_service.Controllers.UsersController.GenerateMessages">
+            <summary>
+            Генерация объекта типа "MessageInfo" (сообщения).
+            </summary>
+        </member>
+        <member name="M:Message_service.Controllers.UsersController.GenerateUsers">
+            <summary>
+            Генерация объекта типа "UserInfo" (пользователя).
+            </summary>
+        </member>
+        <member name="T:Message_service.Models.MessageInfo">
+            <summary>
+            Класс сообщений.
+            </summary>
+        </member>
+        <member name="P:Message_service.Models.MessageInfo.Subject">
+            <summary>
+            Тема письма.
+            </summary>
+        </member>
+        <member name="P:Message_service.Models.MessageInfo.Message">
+            <summary>
+            Содержимое письма.
+            </summary>
+        </member>
+        <member name="P:Message_service.Models.MessageInfo.SenderId">
+            <summary>
+            Идентификатор отправителя.
+            </summary>
+        </member>
+        <member name="P:Message_service.Models.MessageInfo.RecieverId">
+            <summary>
+            Идентификатор получателя.
+            </summary>
+        </member>
+        <member name="T:Message_service.Models.UserInfo">
+            <summary>
+            Класс пользователей.
+            </summary>
+        </member>
+        <member name="P:Message_service.Models.UserInfo.UserName">
+            <summary>
+            Имя пользователя.
+            </summary>
+        </member>
+        <member name="P:Message_service.Models.UserInfo.Email">
+            <summary>
+            Электронный адрес пользователя (или его идентификатор).
+            </summary>
+        </member>
+        <member name="T:Message_service.Program">
+            <summary>
+            Основной класс программы.
+            </summary>
+        </member>
+        <member name="M:Message_service.Program.Main(System.String[])">
+            <summary>
+            Точка входа.
+            </summary>
+            <param name="args">Параметры запуска.</param>
+        </member>
+        <member name="M:Message_service.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            Создание объекта типа "IHostBuilder", используемого для настройки "TestServer".
+            </summary>
+            <param name="args">Аргументы.</param>
+            <returns>Объект типа "IHostBuilder, используемый для дальнейшего взаимодействия с программой."</returns>
+        </member>
+        <member name="T:Message_service.Services.JsonSerializer">
+            <summary>
+            Класс для удобной Json-сериализации списков типа "UserInfo" и "MessageInfo".
+            </summary>
+        </member>
+        <member name="M:Message_service.Services.JsonSerializer.DoSerialization(System.Collections.Generic.List{Message_service.Models.UserInfo},System.Collections.Generic.List{Message_service.Models.MessageInfo})">
+            <summary>
+            Метод сериализации списков.
+            </summary>
+            <param name="users">Список пользователей (типа "UserInfo").</param>
+            <param name="messages">Список сообщений (типа "MessageInfo").</param>
+        </member>
+        <member name="M:Message_service.Services.JsonSerializer.DoDeserialization">
+            <summary>
+            Метод десериализации списков.
+            </summary>
+            <returns>users - список пользователей(типа "UserInfo"), messages - список сообщений (типа "MessageInfo").</returns>
+        </member>
+        <member name="T:Message_service.Startup">
+            <summary>
+            Настройка сервера.
+            </summary>
+        </member>
+        <member name="M:Message_service.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Конструктор класса.
+            </summary>
+            <param name="configuration">Конфигурация.</param>
+        </member>
+        <member name="P:Message_service.Startup.Configuration">
+            <summary>
+            Конфигурация.
+            </summary>
+        </member>
+        <member name="M:Message_service.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Настройка сервисов приложения.
+            </summary>
+            <param name="services">Коллекция сервисов.</param>
+        </member>
+        <member name="M:Message_service.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            Настройка конвейера HTTP-запросов.
+            </summary>
+            <param name="app">Объект класса, предоставляющий механизмы для настройки конвейера запросов приложения.</param>
+            <param name="env">Объект класса, предоставляющий информацию о среде веб-хостинга, в которой работает приложение.</param>
+        </member>
+    </members>
+</doc>
